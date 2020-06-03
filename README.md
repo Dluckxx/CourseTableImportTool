@@ -1,0 +1,4 @@
+# CourseTableImportTool
+学习Python爬虫时顺手制作的脚本，可以自动爬取教务处课程表界面，并且生成csv表格文件。
+
+使用了requests和BeautfulSoup库
