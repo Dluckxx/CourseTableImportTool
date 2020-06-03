@@ -1,4 +1,5 @@
 # Project exclude paths
 /venv/
+/.idea/
 cookies.txt
 course.csv
